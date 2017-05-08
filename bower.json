@@ -1,0 +1,17 @@
+{
+  "name": "buscaminas",
+  "description": "Proyecto de prueba",
+  "main": "index.html",
+  "authors": [
+    "garyvh2"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/garyvh2/Buscaminas",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
