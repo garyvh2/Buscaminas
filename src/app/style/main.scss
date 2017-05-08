@@ -1,0 +1,19 @@
+// Modules and Variables
+@import "partials/base";
+
+// Partials
+@import 'partials/core';
+@import 'partials/embedded';
+@import 'partials/forms';
+@import 'partials/buttons';
+
+// Third-party
+/**===========================================================================**
+
+    Main styles
+
+**===========================================================================**/
+html {
+    width: auto;
+    background: $white;
+}
